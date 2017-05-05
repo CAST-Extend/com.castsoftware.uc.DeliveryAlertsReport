@@ -47,9 +47,9 @@ For each alert raised by DMT for each application in the Delivery folder in the 
 
 The table below indicates the current version of the Extension and history of versions.
 
-* Version: 1.0.0
-* Date: 4/05/2017
-* Key Notes: First official release.
+* Version: 1.0.1
+* Date: 5/05/2017
+* Key Notes: First tested release.
 
 # 2. CAST AIP Compatibility
 
