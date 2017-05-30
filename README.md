@@ -43,14 +43,6 @@ For each alert raised by DMT for each application in the Delivery folder in the 
 * Path of the project that references the missing file
 * Name or Path of the missing file referenced by the project (for DLLs or Jars is provided the name of the library, for missing source files is provided even the path where the file is expected)
 
-## 1.3 Version
-
-The table below indicates the current version of the Extension and history of versions.
-
-* Version: 1.0.1
-* Date: 5/05/2017
-* Key Notes: First tested release.
-
 # 2. CAST AIP Compatibility
 
 The following table gives the list of CAST AIP configurations where the Extension has been implemented:
