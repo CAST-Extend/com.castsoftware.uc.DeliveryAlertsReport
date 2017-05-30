@@ -62,5 +62,5 @@ The following table gives the complete list of technical prerequisites to be met
 
 ## 3.2 Installation Instructions
 
-The extension is ready after downloading it in the download folder, without need of any installation.
+The extension is ready after installing it with CAST Extension Downloader. You will find the tool's executables in the extensions folder (Normally set at: C:\ProgramData\CAST\CAST\Extensions\com.castsoftware.uc.DeliveryAlertsReport, see CAST AIP Documentation).
 
